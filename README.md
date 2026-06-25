@@ -32,7 +32,7 @@ Gosto de transformar ideias em projetos reais, testar layouts, melhorar interfac
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victoremanueld&theme=aura_dark" alt="Profile details" width="90%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=br-vortex-dev&theme=aura_dark" alt="Profile details" width="90%" />
 </div>
 
 ---
