@@ -14,8 +14,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=B040D7&center=true&vCenter=true&random=false&width=640&lines=CEO+%26+Diretor+Frontend+%E2%80%94+Liz+AI+Studio;CEO+%26+Diretor+de+Programa%C3%A7%C3%A3o+%E2%80%94+Lux+Games+Studios;Front-end+%E2%80%A2+Design+de+Interfaces+%E2%80%A2+IA;Ruby+%E2%80%A2+Sistemas+Interativos+%E2%80%A2+Games" alt="Typing SVG" />
 
 <!-- Social badges -->
-<a href="https://github.com/victoremanueld"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:vibe.code.vortex@gmail.com"><img src="https://img.shields.io/badge/Gmail-B040D7?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://github.com/br-vortex-dev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:vibe.dev.vortex@gmail.com"><img src="https://img.shields.io/badge/Gmail-B040D7?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
 </div>
 
@@ -107,12 +107,12 @@ Gosto de transformar ideias em projetos reais, testar layouts, melhorar interfac
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=victoremanueld&show_icons=true&theme=aura_dark&bg_color=0d1117&hide_border=true&title_color=B040D7&icon_color=B040D7" alt="GitHub Stats" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoremanueld&layout=compact&theme=aura_dark&bg_color=0d1117&hide_border=true&title_color=B040D7" alt="Top Languages" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=br-vortex-dev&show_icons=true&theme=aura_dark&bg_color=0d1117&hide_border=true&title_color=B040D7&icon_color=B040D7" alt="GitHub Stats" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=br-vortex-dev&layout=compact&theme=aura_dark&bg_color=0d1117&hide_border=true&title_color=B040D7" alt="Top Languages" />
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=victoremanueld&bg_color=0d1117&color=B040D7&line=B040D7&point=ffffff&hide_border=true&area=true" width="92%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=br-vortex-dev&bg_color=0d1117&color=B040D7&line=B040D7&point=ffffff&hide_border=true&area=true" width="92%" alt="Activity Graph" />
 
 </div>
 
